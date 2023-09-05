@@ -2,7 +2,7 @@
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
-  <groupId>JTOpen-test</groupId>
+  <groupId>sanmarco-informatica</groupId>
   <artifactId>JTOpen-test</artifactId>
   <packaging>jar</packaging>
   <version>1.0.3</version>
@@ -53,9 +53,9 @@
   </build>
   <dependencies>
     <dependency>
-      <groupId>net.sf.jt400</groupId>
+      <groupId>sanmarco-informatica</groupId>
       <artifactId>jt400</artifactId>
-      <version>20.0.0</version>
+      <version>20.0.2</version>
       <scope>provided</scope>
     </dependency>
     <dependency>
